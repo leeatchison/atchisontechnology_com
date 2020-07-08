@@ -1,7 +1,7 @@
 # atchisontechnology.com Website
 This is the website for atchisontechnology.com.
 
-xxxTODOxxx[![Netlify Status](https://api.netlify.com/api/v1/badges/eec2cd13-3bbe-49c7-89c1-f22ffb3d31b1/deploy-status)](https://app.netlify.com/sites/stosa-org/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ade9712-7a92-409c-90d0-f658420adc17/deploy-status)](https://app.netlify.com/sites/atchisontechnology-com/deploys)
 
 ## Theme Used
 
