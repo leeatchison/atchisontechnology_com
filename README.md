@@ -7,3 +7,7 @@ This is the website for atchisontechnology.com.
 
 [Universal](https://themes.gohugo.io/hugo-universal-theme/)
 ([GitHub](https://github.com/devcows/hugo-universal-theme.git))
+
+## Font Icons
+https://fontawesome.com/6?next=%2Ficons%3Ffrom%3Dio
+https://fontawesome.com/icons?from=io
