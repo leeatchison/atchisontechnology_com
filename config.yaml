@@ -7,6 +7,8 @@ googleAnalytics: ""
 paginate: 10
 params:
     style: "blue"
+    logo: "img/logo.png"
+    logo_small: "img/logo-small.png"
     # viewMorePostLink: "/blog/"
     # author: "Lee Atchison"
     # defaultKeywords: ["devows", "hugo", "go"]
@@ -66,11 +68,11 @@ menu:
     topbar:
         -   weight: 1
             name: LinkedIn
-            url: "xxx"
+            url: "https://www.linkedin.com/in/leeatchison/"
             pre: <i class='fab fa-2x fa-linkedin'></i>
         -   weight: 2
             name: Twitter
-            url: "xxx"
+            url: "https://twitter.com/leeatchison"
             pre: <i class='fab fa-2x fa-twitter'></i>
         -   weight: 3
             name: Facebook
@@ -78,7 +80,7 @@ menu:
             pre: <i class='fab fa-2x fa-facebook'></i>
         -   weight: 4
             name: Email
-            url: "xxx"
+            url: "mailto:intro@atchisontechnology.com"
             pre: <i class='fas fa-2x fa-envelope'></i>
 
 # [[menu.topbar]]
