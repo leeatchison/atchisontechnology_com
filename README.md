@@ -11,3 +11,10 @@ This is the website for atchisontechnology.com.
 ## Font Icons
 https://fontawesome.com/6?next=%2Ficons%3Ffrom%3Dio
 https://fontawesome.com/icons?from=io
+
+# Tasks
+
+[ ] Who is Lee page
+[ ] Images in carousel and other places
+[ ] Favicon
+[ ] Google Analytics
