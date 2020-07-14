@@ -14,7 +14,13 @@ params:
     # defaultKeywords: ["devows", "hugo", "go"]
     # mainSections: ["blog"]
     # defaultDescription: "Site template made by devcows using hugo"
-    # about_us: "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us: "<p>Lee Atchison provides consulting and advising to enterprises on cloud computing, application modernization, digital transformation, application scaling, and maintaining high availability.</p>"
+    address: >
+        <p class="text-uppercase"><strong>Atchison Technology LLC</strong>
+        <br>1037 NE 65th St #81899
+        <br>Seattle, WA 98115
+        <br><i>United States of America</i>
+        </p>
     copyright: "Copyright © 2020, Atchison Technology LLC; all rights reserved."
     # Social media
     facebook_site: "mdascale" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -48,6 +54,12 @@ params:
     # googleMapsApiKey: ""
     # # latitude: "-12.043333"
     # # longitude: "-77.028333"
+
+    # # Enable and disable widgets for the right sidebar
+    widgets:
+        categories: true
+        tags: true
+        search: true
     topbar:
         enable: true
         text: >
@@ -55,16 +67,28 @@ params:
             Contact us for an overview and evaluation.
             <a href="mailto:intro@atchisontechnology.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
             </p>
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
     main:
         -   identifier: home
             name: "Home"
             url : "/"
             weight: 1
-        -   identifier: about
-            name: "About"
-            url: "/"
+        -   identifier: whoislee
+            name: "Who is Lee?"
+            url: "/whoislee"
             weight: 2
+        # -   identifier: calendar
+        #     name: "Schedule a Meeting"
+        #     url: "/calendar"
+        #     weight: 3
+        -   identifier: contact
+            name: "Contact"
+            url: "/contact"
+            weight: 4
     topbar:
         -   weight: 1
             name: LinkedIn
@@ -129,62 +153,5 @@ menu:
 
 #     # Format dates with Go's time formatting
 #     date_format = "January 2, 2006"
-
-#     logo = "img/logo.png"
-#     logo_small = "img/logo-small.png"
-#     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-#         <br>13/25 New Avenue
-#         <br>Newtown upon River
-#         <br>45Y 73J
-#         <br>England
-#         <br>
-#         <strong>Great Britain</strong>
-#       </p>
-#       """
-
-# # Enable or disable top bar with social icons
-
-# # Enable and disable widgets for the right sidebar
-# [params.widgets]
-#     categories = true
-#     tags = true
-#     search = true
-
-    
-
-# # [Permalinks]
-# #     blog = "/blog/:year/:month/:day/:filename/"
-
-
-# #
-# #
-# # Menus
-# #
-# #
-# [[menu.main]]
-#     identifier="home"
-#     name = "Home"
-#     url  = "/"
-#     weight = 1
-
-# [[menu.main]]
-#     identifier="blog"
-#     name = "Blog"
-#     url  = "/blog/"
-#     weight = 2
-
-# [[menu.main]]
-#     identifier = "faq"
-#     name = "FAQ"
-#     url  = "/faq/"
-#     weight = 3
-
-# [[menu.main]]
-#     identifier = "contact"
-#     name = "Contact"
-#     url  = "/contact/"
-#     weight = 4
-
-# # Top bar social links menu
 
 
