@@ -3,11 +3,6 @@ title: Who is Lee Atchison?
 test:
   john: Test John
 john: John
-menu:
-  main:
-    name: Who is Lee?
-    weight: 3
-    identifier: whoislee
 
 ---
 <img src="./lee.png" align="right" width="250"/>

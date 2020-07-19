@@ -78,6 +78,10 @@ markup:
       unsafe: true
 menu:
   main:
+  - url: "/whoislee"
+    name: Who is Lee?
+    weight: 3
+    identifier: whoislee
   - url: "/contact/"
     name: Contact
     weight: 2
