@@ -78,6 +78,10 @@ markup:
       unsafe: true
 menu:
   main:
+  - url: "/contact/"
+    name: Contact
+    weight: 2
+    identifier: contact
   - url: "/"
     name: Home
     weight: 1

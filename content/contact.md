@@ -1,9 +1,6 @@
 +++
 id = "contact"
 title = "Contact"
-[menu.main]
-identifier = "contact"
-weight = 2
 
 +++
 # Schedule an Introductory Video Meeting
