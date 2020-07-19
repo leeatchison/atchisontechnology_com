@@ -77,6 +77,11 @@ markup:
     renderer:
       unsafe: true
 menu:
+  main:
+  - url: "/"
+    name: Home
+    weight: 1
+    identifier: home
   topbar:
   - pre: "<i class='fab fa-2x fa-linkedin'></i>"
     url: https://www.linkedin.com/in/leeatchison/
