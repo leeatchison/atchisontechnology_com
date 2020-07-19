@@ -77,11 +77,6 @@ markup:
     renderer:
       unsafe: true
 menu:
-  main:
-  - url: "/whoislee"
-    name: Who is Lee?
-    weight: 3
-    identifier: whoislee
   topbar:
   - pre: "<i class='fab fa-2x fa-linkedin'></i>"
     url: https://www.linkedin.com/in/leeatchison/
