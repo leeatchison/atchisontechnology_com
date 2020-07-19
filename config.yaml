@@ -5,7 +5,7 @@ theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
 googleAnalytics: ''
-paginate: 10
+paginate: '10'
 params:
   style: blue
   logo: img/logo.png
@@ -78,32 +78,24 @@ markup:
       unsafe: true
 menu:
   main:
-  - url: "/contact"
-    name: Contact
-    weight: 2
-    identifier: contact
   - url: "/whoislee"
     name: Who is Lee?
     weight: 3
     identifier: whoislee
-  - url: "/"
-    name: Home
-    weight: 1
-    identifier: home
   topbar:
-  - pre: "<i class='fas fa-2x fa-envelope'></i>"
-    url: mailto:intro@atchisontechnology.com
-    name: Email
-    weight: 4
-  - pre: "<i class='fab fa-2x fa-facebook'></i>"
-    url: https://www.facebook.com/mdascale
-    name: Facebook
-    weight: 3
-  - pre: "<i class='fab fa-2x fa-twitter'></i>"
-    url: https://twitter.com/leeatchison
-    name: Twitter
-    weight: 2
   - pre: "<i class='fab fa-2x fa-linkedin'></i>"
     url: https://www.linkedin.com/in/leeatchison/
     name: LinkedIn
     weight: 1
+  - pre: "<i class='fab fa-2x fa-twitter'></i>"
+    url: https://twitter.com/leeatchison
+    name: Twitter
+    weight: 2
+  - pre: "<i class='fab fa-2x fa-facebook'></i>"
+    url: https://www.facebook.com/mdascale
+    name: Facebook
+    weight: 3
+  - pre: "<i class='fas fa-2x fa-envelope'></i>"
+    url: mailto:intro@atchisontechnology.com
+    name: Email
+    weight: 4
