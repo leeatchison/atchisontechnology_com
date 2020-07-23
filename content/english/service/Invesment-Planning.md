@@ -11,7 +11,7 @@ image: "images/service/service-3.jpg"
 # service icon
 icon: "fa-briefcase" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 # type
-type: "service"
+type: "service-xxx-hold"
 ---
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
