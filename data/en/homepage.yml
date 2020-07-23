@@ -1,0 +1,248 @@
+slider:
+  enable: true
+  slider_item:
+    - subtitle: "Happy Customers, Motivated Staff, Growing Revenue"
+      title: "Modernize Your Enterprise"
+      content: "Thoughtful, advice from an external point of view on modernizing your enterprise applications."
+      bg_image_webp: "/images/lee-stage.jpg"
+      bg_image: "/images/lee-stage.jpg"
+      animation: "fadeInLeft" # animation select from: https://daneden.github.io/animate.css/
+      button:
+        enable: true
+        label: "Schedule a Call"
+        link: "/contact"
+        animation: "zoomIn"
+banner_feature:
+  enable: true
+  # Max use 4 item
+  feature_item:
+    # banner feature item loop
+    - name: "Scalable Applications"
+      icon: "fa-line-chart" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: "Applications must scale to meet your customer's growing needs."
+    - name: "Agile Business"
+      icon: "fa-rocket" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: "Modern businesses must adapt quickly to compete and survive."
+    - name: "Satisfied Customers"
+      icon: "fa-users" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: "Customer's new and growing expectations require modern applications."
+stakes:
+  enable: true
+  subtitle: ""
+  title: "Life is too short to be irrelevant"
+  content: >
+    Competitive disruptors are taking business away from you.
+    You are afraid of failing, of becoming irrelevant in your industry.
+    You risk becoming irrelevant in your field.
+  bg_image: "images/backgrounds/about-us-bg.png"
+  image: "images/stakes/about-us.png"
+  button:
+    enable: true;
+    label: "Schedule a Call"
+    link: "/contact"
+
+value_proposition:
+  enable: true
+  subtitle: "Stop the path to irrelevancy"
+  title: "Take Control of Your Disruption"
+  content: >
+    Modern applications, modern processes, and modern tools are 
+    required to avoid irrelevancy and disrupt your industry.
+  bg_image: "images/backgrounds/about-us-bg.png"
+  image: "images/fs17lee592x575.png"
+  feature_item:
+    - name: "Scalable Applications"
+      icon: "fa-line-chart" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: >
+        Use the cloud to enable high scalability in your enterprise applications.
+    - name: "Agile Business Practice"
+      icon: "fa-rocket" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: >
+        Faster iterations allows you to quickly respond to customer needs.
+    - name: "High Availability"
+      icon: "fa-heartbeat" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: >
+        Tools to manage risk and minimize the impact of problems to keep your business operating.
+  button:
+    enable: true;
+    label: "Schedule a Call"
+    link: "/contact"
+
+
+guide:
+  enable: true
+  subtitle: "I understand how hard transformation is to remain competitive."
+  title: "I've Been There"
+  bg_image: "images/backgrounds/about-us-bg.png"
+  image: "images/lee-prezo-shaped-592x575.png"
+  content: ""
+  feature_item:
+    - name: "33 Years Experience"
+      icon: "fa-edit" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: >
+        Lee has 33 years of relevant industry experience to backup recommendations.
+    - name: "Worked at Major Distruptors"
+      icon: "fa-building" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: >
+        Lee has worked at major industry disruptors such as Amazon.com, AWS, New Relic.
+    - name: "Thought Leader, Innovator"
+      icon: "fa-quote-left" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: >
+        Lee has helped companies in most major industries and has worked with 
+        hundreds of companies around the world, just like yours.
+  button:
+    enable: true;
+    label: "Schedule a Call"
+    link: "/contact"
+
+
+plan:
+  subtitle: ""
+  title: "Path to Modernization"
+  content: "How can I help you in your modernization journey?"
+  enable: true
+  plan_item:
+    - title: "Evaluate..."
+      content: >
+        I work with you and your staff and leadership team to evaluate your current tools, 
+        processes, and systems. I learn what works and what doesn't work for you.
+      bullet_point:
+        - "Review plans and processes"
+        - "Interview staff"
+        - "Talk with executives and leaders"
+    - title: "Recommend..."
+      content: >
+        I make recommendations for changes you can easily make in your organization,
+        and I help create strategic plans to implement deeper and more impactful changes.
+      bullet_point:
+        - "Provide an external POV"
+        - "Based on personal experience"
+        - "Directed, Specific, Actionable"
+    - title: "Establish..."
+      content: >
+        Based on your environment and systems, I recommend best practices that are
+        industry tested and validated and that I have seen work successfully
+        in other companies just like yours.
+      bullet_point:
+        - "Service Tiers"
+        - "Risk Matrices"
+        - "Agile Methodologies"
+  button:
+    enable: true;
+    label: "Schedule a Call"
+    link: "/contact"
+
+explanatory:
+  enable: true
+  subtitle: ""
+  title: "Life Is Too Short To Be Irrelevant"
+  content: >
+    Many corporate leaders are facing stagnant revenue and
+    unhappy staff.
+    I advise leaders on how to modernize their environment
+    to make customers happier and staff energized for
+    growth and success.
+  readmore_text: Read More...
+  readmore_link: /readmore
+
+cta:
+  enable: false
+  subtitle: Free e-Book
+  title: The Goldilocks Calculation
+  bg_image_webp: "/images/thecube-stage3.jpg"
+  bg_image: "/images/thecube-stage3.jpg"
+  image: "/images/Book Cover Image193x236.png"
+  content: >
+    Are you moving towards a service oriented application architecture?
+    Then you should download our free PDF
+    on building a service oriented organization,
+    *"The Goldilocks Calculation"*, written by Lee Atchison.
+  button:
+    enable: true
+    label: "Download PDF"
+    link: "/goldilocks"
+
+buybook:
+  enable: true
+  title: "Architecting for Scale"
+  bg_image_webp: "/images/thecube-stage3.jpg"
+  bg_image: "/images/thecube-stage3.jpg"
+  content: >
+    Read the newly updated second edition of Lee's 
+    best selling book, <i>Architecting for Scale</i>, 
+    published by O'Reilly Media.
+     
+    "I highly recommend this book for those looking 
+    for an entry point into the world of microservices 
+    and high availability cloud architectures. 
+    Several broad and complex topics are boiled down to 
+    their essence, presented clearly and concisely, 
+    and wrapped in well-reasoned best practices. 
+    This will be a mandatory read for my team."
+    *--Dan, Amazon.com Customer Review*
+  image: "/images/afs2e180x236.png"
+  button:
+    enable: true
+    label: "Buy On Amazon"
+    link: "https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/"
+
+testimonial:
+  enable: true
+  subtitle: "Testimonials"
+  title: "What are people saying about Lee?"
+  testimonial_item:
+    - client_image: "images/testimonials/caroline_salen.jpg"
+      name: Caroline Salen
+      designation: Global Director
+      content: >
+        I love working with Lee: so talented, 
+        customer centric, always well prepared, 
+        collaborative and willing to go the extra 
+        mile to make our customers successful.
+    - client_image: "images/testimonials/ken_gavranovic.jpg"
+      name: Ken Gavranovic
+      designation: CEO, EVP, GM
+      content: >
+        Time and time again, I have seen Lee leapfrog 
+        companies’ transformation progress in a single 
+        thirty-minute meeting.
+    - client_image: "images/testimonials/greg_hampton.jpg"
+      name: Greg Hampton
+      designation: CEO, Advisor
+      content: >
+        Lee is an outstanding Architect and 
+        Director / Manager. He has a passion for 
+        excellence that shows in his work and through 
+        the work of his team. On top of that he is able 
+        to led by example as his ability to develop is 
+        second to none.
+    - client_image: "images/testimonials/bjorn_freeman-benson.jpg"
+      name: Bjorn Freeman-Benson
+      designation: CTO, VP Engineering
+      content: >
+        I urge you, in your journey as part of this 
+        exciting explosion of new systems and products 
+        and companies, to do the same: to learn from 
+        Lee in building your systems for scale.
+
+
+about:
+  enable : true
+  subtitle : "Life is too short to be irrelevant"
+  title : "About Us"
+  content : >
+    At Atchison Technology we know that you want to be a growth oriented, modern company. 
+    In order to do that, you need modern IT tools, techniques, and processes. 
+    The problem is competitive disruptors are taking your business away, which makes 
+    you feel irrelevant, a failure, and left behind the competition. We believe it 
+    shouldn’t be so hard to keep your competitive edge, or get it back again. 
+    We understand how hard transformation is to remain competitive which is why we 
+    created Atchison Technology, with our 33 years experience working for major disruptors 
+    like Amazon, AWS, and New Relic.
+  bg_image : "images/backgrounds/about-us-bg.png"
+  image_webp : "images/about/about-us.webp"
+  image : "images/about/about-us.png"
+  button:
+    enable : true;
+    label : "Schedule a Call"
+    link : "/contact"

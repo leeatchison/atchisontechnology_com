@@ -1,109 +1,93 @@
----
-baseURL: https://atchisontechnology.com/
-title: Atchison Technology LLC
-theme: hugo-universal-theme
-languageCode: en-us
-defaultContentLanguage: en
-googleAnalytics: ''
-paginate: '10'
+baseURL: "http://atchisontechnology.com/"
+title: "Atchison Technology LLC | Modernize Your Enterprise for Happier Customers, Motivated Staff, and Growing Revenue"
+theme: "bexar-hugo"
+
+
+
+
+
 params:
-  style: blue
-  logo: img/logo.png
-  logo_small: img/logo-small.png
-  date_format: January 2, 2006
-  author: Lee Atchison
-  defaultKeywords:
-  - cloud
-  - digital transformation
-  - cloud migration
-  - application modernization
-  - devops
-  defaultDescription: Lee Atchison provides consulting and advising to enterprises
-    on cloud computing, application modernization, digital transformation, application
-    scaling, and maintaining high availability.
-  about_us: "<p>Lee Atchison provides consulting and advising to enterprises on cloud
-    computing, application modernization, digital transformation, application scaling,
-    and maintaining high availability.</p>"
-  address: '<p class="text-uppercase"><strong>Atchison Technology LLC</strong> <br>1037
-    NE 65th St #81899 <br>Seattle, WA 98115 <br><i>United States of America</i> </p>
+  logo: "images/logo149x42.png"
+  logo_footer: "images/logobkbg149x42.png"
+  description: "Many corporate leaders are facing stagnant revenue and unhappy staff. I advise leaders on how to modernize their environment to make customers happier and staff energized for growth and success."
+  author: "Lee Atchison"
+  address: "1037 NE 65th St #81899, Seattle, WA 98115"
+  mobile: "+1(360)670-0674‬"
+  email: "info@atchisontechnology.com"
+  contact_form_action: "#" # TODO: contact form works with https://formspree.io
+  google_analitycs_id: "" # TODO: your id
+  search: true
+  top_header: false
+  navigation_button:
+    enable: true
+    label: "Schedule a Call"
+    link: "/contact"
+  social:
+    - icon: "fa-linkedin"
+      link: "https://www.linkedin.com/in/leeatchison/"
+    - icon: "fa-twitter"
+      link: "https://twitter.com/leeatchison"
+    - icon: "fa-facebook"
+      link: "https://www.facebook.com/mdascale"
+    - icon: "fa-envelope"
+      link: "/subscribe/"
 
-'
-  copyright: Copyright © 2020, Atchison Technology LLC; all rights reserved.
-  facebook_site: mdascale
-  twitter_site: leeatchison
-  default_sharing_image: img/sharing-default.png
-  carousel:
-    enable: true
-  features:
-    enable: true
-  testimonials:
-    enable: true
-    title: Testimonials
-    subtitle: Listen to some comments from the folks who have worked with Lee over
-      the years.
-  see_more:
-    enable: true
-    icon: far fa-file-alt
-    title: Do you want to learn more?
-    subtitle: Please contact us for more details.
-    link_url: contact
-    link_text: Contact Us
-  clients:
-    enable: false
-    title: Our Clients
-    subtitle: ''
-  recent_posts:
-    enable: false
-    title: From our blog
-    subtitle: Pellentesque habitant morbi tristique senectus et netus et malesuada
-      fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
-      tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
-      ultricies mi vitae est. Mauris placerat eleifend leo.
-  enableGoogleMaps: false
-  googleMapsApiKey: ''
-  widgets:
-    categories: true
-    tags: true
-    search: true
-  topbar:
-    enable: true
-    text: '<p class="hidden-sm hidden-xs"> Contact us for an overview and evaluation.
-      <a href="/contact" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
 
-'
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+  preloader:
+    enable: true
+    preloader: "images/preloader.gif"
+  plugins:
+    css:
+      - link: "plugins/bootstrap/bootstrap.min.css"
+      - link: "plugins/slick/slick.css"
+      - link: "plugins/fontawesome/font-awesome.min.css"
+      - link: "plugins/animate/animate.css"
+      - link: "plugins/venobox/venobox.css"
+    js:
+      - link: "plugins/jQuery/jquery.min.js"
+      - link: "plugins/bootstrap/bootstrap.min.js"
+      - link: "plugins/slick/slick.min.js"
+      - link: "plugins/google-map/gmap.js"
+      - link: "plugins/venobox/venobox.min.js"
+      - link: "plugins/filterizr/jquery.filterizr.min.js"
+      - link: "plugins/search/fuse.min.js"
+      - link: "plugins/search/mark.js"
+      - link: "plugins/search/search.js"
+
 menu:
   main:
-  - url: "/whoislee"
-    name: Who is Lee?
-    weight: 3
-    identifier: whoislee
-  - url: "/contact/"
-    name: Contact
-    weight: 2
-    identifier: contact
-  - url: "/"
-    name: Home
+    - name: "Who is Lee?"
+      URL: "/whoislee/"
+      weight: 1
+    # - name: "Services"
+    #   URL: "/service"
+    #   weight: 2
+    - name: "About Us"
+      URL: "/about"
+      weight: 3
+  footer:
+    - name: "Who is Lee?"
+      URL: "/whoislee/"
+      weight: 1
+    - name: "Subscribe"
+      URL: "/subscribe"
+      weight: 2
+    - name: "Privacy Policy"
+      URL: "/privacy"
+      weight: 3
+
+languages:
+  en:
+    languageName: "En"
+    languageCode: "en-us"
+    contentDir: "content/english"
     weight: 1
-    identifier: home
-  topbar:
-  - pre: "<i class='fab fa-2x fa-linkedin'></i>"
-    url: https://www.linkedin.com/in/leeatchison/
-    name: LinkedIn
-    weight: 1
-  - pre: "<i class='fab fa-2x fa-twitter'></i>"
-    url: https://twitter.com/leeatchison
-    name: Twitter
-    weight: 2
-  - pre: "<i class='fab fa-2x fa-facebook'></i>"
-    url: https://www.facebook.com/mdascale
-    name: Facebook
-    weight: 3
-  - pre: "<i class='fas fa-2x fa-envelope'></i>"
-    url: mailto:intro@atchisontechnology.com
-    name: Email
-    weight: 4
+    home: "Home"
+    footer_content: >
+      Lee Atchison advises leaders 
+      facing stagnant revenue and unhappy staff
+      on how to 
+      modernize their environment to make customers 
+      happier and staff energized for growth and success.
+    copyright: >
+      Copyright &copy; 2020 [Lee Atchison](https://leeatchison.com)

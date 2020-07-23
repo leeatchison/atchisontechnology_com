@@ -1,9 +1,0 @@
-weight: 2
-title: "Scaling & Availability"
-description: >
-  <ul class="list-style-none">
-    <li>Handling your biggest days.</li>
-    <li>Architecting for scalability.</li>
-    <li>Maintaining high availability.</li>
-  </ul>
-xxximage: "img/texture-green.png"
