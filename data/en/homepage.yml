@@ -1,11 +1,11 @@
 slider:
   enable: true
   slider_item:
-    - subtitle: "Happy Customers, Motivated Staff, Growing Revenue"
+    - subtitle: "On track? Off track? Unlock the proven strategy…"
       title: "Modernize Your Enterprise"
-      content: "Thoughtful, advice from an external point of view on modernizing your enterprise applications."
-      bg_image_webp: "/images/lee-stage.jpg"
-      bg_image: "/images/lee-stage.jpg"
+      content: "Thoughtful, advice from an external point of view on modernizing your enterprise applications"
+      bg_image_webp: "/images/lee-stage-book-stamped.png"
+      bg_image: "/images/lee-stage-book-stamped.png"
       animation: "fadeInLeft" # animation select from: https://daneden.github.io/animate.css/
       button:
         enable: true
@@ -28,7 +28,7 @@ banner_feature:
       content: "Customer's new and growing expectations require modern applications."
 stakes:
   enable: true
-  subtitle: ""
+  subtitle: "If you don’t change, you die…"
   title: "Life is too short to be irrelevant"
   content: >
     Competitive disruptors are taking business away from you.

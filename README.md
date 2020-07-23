@@ -20,19 +20,45 @@ This is the website for atchisontechnology.com.
 * [x] "Schedule A Call" page -- /contact/ -- Contact and setup call forms (email & calendly) -- also linked to AWeber
 * [x] Who is Lee? page -- /whoislee/ -- Page that has text from leeatchison.com, then points to leeatchison.com
 * [x] Buy On Amazon link
-* [ ] Netlify -- and updated account
-* [ ] SEO -- Including Twitter/Facebook objects...
-* [ ] Push to production
-* [ ] Use [Zapier to get forms to AWebber](https://www.netlify.com/blog/2018/11/07/automate-your-netlify-sites-with-zapier/?_ga=2.149757366.1658965159.1595526463-796901028.1595359263)
+* [x] Netlify -- and updated account
+* [x] Push to production
+* [x] Favicon -- test it!
+* [x] Use [Zapier to get forms to AWebber](https://www.netlify.com/blog/2018/11/07/automate-your-netlify-sites-with-zapier/?_ga=2.149757366.1658965159.1595526463-796901028.1595359263)
+* [ ] Zapier also from calendly to AWebber
+* [ ] Comments from Ken
 * [ ] Test form submission on contact page...
+* [ ] Test schedulign with calendly...
 * [ ] MDA Podcast...put podcast back into Captivate
 * [ ] Google Analytics
-* [ ] Test search, or remove
 * [ ] Come up with services (enable on about page, top menu, and footer)
-* [ ] Canonical URLs in metadata
+* [ ] Goldilocks calculation -- write it, add landing page and subscribe, add AWeber delivery, reenable on homepage, take out background for Architecting for * [ ] Canonical URLs in metadata
 * [ ] Forestry
 * [ ] Blog (and linked to AWeber)
 * [ ] Team not working on About page???
-* [ ] Goldilocks calculation -- write it, add landing page and subscribe, add AWeber delivery, reenable on homepage, take out background for Architecting for Scale.
+Scale.
 * [ ] Better logo
-* [ ] Favicon -- test it!
+* [ ] SEO -- Including Twitter/Facebook objects...
+* [ ] Test search, or remove
+
+
+Logos: Amazon, AWS, O'Reilly, LinkedIn, HP
+
+
+---
+Comment from Ken:
+
+Logo on top-right of main image...
+Label that says “Author, Writer, O’Reilly, name of book”
+
+Validate...
+◎	Instead: “Happy Customers, Motivated Staff, Growing Revenue”Put: “Get the right expertise, POV, …”On track, off track, External POV, Are you doing it right?“Are you doing it right?”“Efficiently? Getting the value you expect?”“Are you getting the value you expect?”“On track? Off Track? Schedule a Call”Plan, Migrate, …My main thing…need to credential myself…“Unlock the proven formula…”****** “On track? Off track? Unlock the proven formula…”
+◎	Above “Life is Too Short to be Irrelevant” — If you don’t change, you die…
+
+Validate direction…Lift-n-Shift, Re-engineer, etc.
+Credentializing myself...
+
+
+
+
+
+Humana
