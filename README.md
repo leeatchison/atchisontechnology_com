@@ -24,12 +24,13 @@ This is the website for atchisontechnology.com.
 * [x] Push to production
 * [x] Favicon -- test it!
 * [x] Use [Zapier to get forms to AWebber](https://www.netlify.com/blog/2018/11/07/automate-your-netlify-sites-with-zapier/?_ga=2.149757366.1658965159.1595526463-796901028.1595359263)
-* [ ] Zapier also from calendly to AWebber
-* [ ] Comments from Ken
+* [x] Zapier also from calendly to AWebber
+* [x] Comments from Ken
 * [ ] Test form submission on contact page...
-* [ ] Test schedulign with calendly...
+* [x] Test scheduling with calendly...
 * [ ] MDA Podcast...put podcast back into Captivate
 * [ ] Google Analytics
+* [ ] Google AdWords setup...not turn on yet...
 * [ ] Come up with services (enable on about page, top menu, and footer)
 * [ ] Goldilocks calculation -- write it, add landing page and subscribe, add AWeber delivery, reenable on homepage, take out background for Architecting for * [ ] Canonical URLs in metadata
 * [ ] Forestry
