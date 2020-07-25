@@ -10,7 +10,7 @@ params:
   mobile: "+1(360)670-0674‬"
   email: "info@atchisontechnology.com"
   contact_form_action: "#" # TODO: contact form works with https://formspree.io
-  google_analitycs_id: "" # TODO: your id
+  google_analitycs_id: "UA-173525449-1"
   search: true
   top_header: false
   navigation_button:

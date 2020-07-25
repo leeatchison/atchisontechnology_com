@@ -28,8 +28,7 @@ This is the website for atchisontechnology.com.
 * [x] Comments from Ken
 * [ ] Test form submission on contact page...
 * [x] Test scheduling with calendly...
-* [ ] MDA Podcast...put podcast back into Captivate
-* [ ] Google Analytics
+* [x] Google Analytics
 * [ ] Google AdWords setup...not turn on yet...
 * [ ] Come up with services (enable on about page, top menu, and footer)
 * [ ] Goldilocks calculation -- write it, add landing page and subscribe, add AWeber delivery, reenable on homepage, take out background for Architecting for * [ ] Canonical URLs in metadata
@@ -40,6 +39,7 @@ Scale.
 * [ ] Better logo
 * [ ] SEO -- Including Twitter/Facebook objects...
 * [ ] Test search, or remove
+* [ ] MDA Podcast...put podcast back into Captivate
 
 
 Logos: Amazon, AWS, O'Reilly, LinkedIn, HP
