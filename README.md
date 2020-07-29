@@ -26,20 +26,20 @@ This is the website for atchisontechnology.com.
 * [x] Use [Zapier to get forms to AWebber](https://www.netlify.com/blog/2018/11/07/automate-your-netlify-sites-with-zapier/?_ga=2.149757366.1658965159.1595526463-796901028.1595359263)
 * [x] Zapier also from calendly to AWebber
 * [x] Comments from Ken
-* [ ] Test form submission on contact page...
+* [x] Better logo
 * [x] Test scheduling with calendly...
 * [x] Google Analytics
-* [ ] Google AdWords setup...not turn on yet...
+* [ ] Test form submission on contact page...
 * [ ] Come up with services (enable on about page, top menu, and footer)
 * [ ] Goldilocks calculation -- write it, add landing page and subscribe, add AWeber delivery, reenable on homepage, take out background for Architecting for * [ ] Canonical URLs in metadata
 * [ ] Forestry
 * [ ] Blog (and linked to AWeber)
 * [ ] Team not working on About page???
 Scale.
-* [ ] Better logo
 * [ ] SEO -- Including Twitter/Facebook objects...
 * [ ] Test search, or remove
 * [ ] MDA Podcast...put podcast back into Captivate
+* [ ] Google AdWords setup...not turn on yet...
 
 
 Logos: Amazon, AWS, O'Reilly, LinkedIn, HP
