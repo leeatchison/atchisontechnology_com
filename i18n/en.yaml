@@ -1,6 +1,9 @@
 - id: schedule_a_call
   translation: Schedule A Call
   
+- id: buy_on_amazon
+  translation: Buy on Amazon
+  
 - id: read_more
   translation: Read More
   
