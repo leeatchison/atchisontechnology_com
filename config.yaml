@@ -48,6 +48,7 @@ params:
       - link: "plugins/search/fuse.min.js"
       - link: "plugins/search/mark.js"
       - link: "plugins/search/search.js"
+      - link: "//analytics.aweber.com/js/awt_analytics.js?id=Tilk"
 
 menu:
   main:
