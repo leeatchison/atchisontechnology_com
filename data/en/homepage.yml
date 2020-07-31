@@ -146,12 +146,12 @@ explanatory:
   readmore_link: /readmore
 
 cta:
-  enable: false
+  enable: true
   subtitle: Free e-Book
   title: The Goldilocks Calculation
   bg_image_webp: "/images/thecube-stage3.jpg"
   bg_image: "/images/thecube-stage3.jpg"
-  image: "/images/Book Cover Image193x236.png"
+  image: "/images/goldilocks_cover193x236.png"
   content: >
     Are you moving towards a service oriented application architecture?
     Then you should download our free PDF
@@ -160,13 +160,13 @@ cta:
   button:
     enable: true
     label: "Download PDF"
-    link: "/goldilocks"
+    link: "https://aw1661e1.aweb.page/the-goldilocks-calculation"
 
 buybook:
   enable: true
   title: "Architecting for Scale"
-  bg_image_webp: "/images/thecube-stage3.jpg"
-  bg_image: "/images/thecube-stage3.jpg"
+  xbg_image_webp: "/images/thecube-stage3.jpg"
+  xbg_image: "/images/thecube-stage3.jpg"
   content: >
     Read the newly updated second edition of Lee's 
     best selling book, <i>Architecting for Scale</i>, 
@@ -183,7 +183,7 @@ buybook:
   image: "/images/afs2e180x236.png"
   button:
     enable: true
-    label: "Buy On Amazon"
+    label: "Available On Amazon"
     link: "https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/"
 
 testimonial:

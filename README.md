@@ -7,6 +7,7 @@ This is the website for atchisontechnology.com.
 
 * [Themefisher](https://themefisher.com)
 * [Theme Documentation - Biztrox-hugo](http://documentation.themefisher.com/docs/biztrox-hugo/)
+* [Theme Documentation - Bexer-hugo](http://documentation.themefisher.com/docs/bexer-hugo/)
 * [Netlify]((https://app.netlify.com/sites/atchisontechnology-com/deploys))
 * [Font Awesome](https://fontawesome.com/icons?from=io)
 * [Themify](https://themify.me/themify-icons)
@@ -23,7 +24,7 @@ This is the website for atchisontechnology.com.
 * [x] Netlify -- and updated account
 * [x] Push to production
 * [x] Favicon -- test it!
-* [x] Use [Zapier to get forms to AWebber](https://www.netlify.com/blog/2018/11/07/automate-your-netlify-sites-with-zapier/?_ga=2.149757366.1658965159.1595526463-796901028.1595359263)
+* [x] Use [Zapier to get forms to AWeber](https://www.netlify.com/blog/2018/11/07/automate-your-netlify-sites-with-zapier/?_ga=2.149757366.1658965159.1595526463-796901028.1595359263)
 * [x] Zapier also from calendly to AWebber
 * [x] Comments from Ken
 * [x] Better logo
