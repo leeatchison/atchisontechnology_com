@@ -3,7 +3,7 @@ slider:
   slider_item:
     - subtitle: "On track? Off track? Unlock the proven strategy…"
       title: "Modernize Your Enterprise"
-      content: "Thoughtful, advice from an external point of view on modernizing your enterprise applications"
+      content: "Thoughtful advice and expertise from an external point of view on modernizing your enterprise applications"
       bg_image_webp: "/images/lee-stage-book-stamped.png"
       bg_image: "/images/lee-stage-book-stamped.png"
       animation: "fadeInLeft" # animation select from: https://daneden.github.io/animate.css/
@@ -19,21 +19,23 @@ banner_feature:
     # banner feature item loop
     - name: "Scalable Applications"
       icon: "fa-line-chart" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
-      content: "Applications must scale to meet your customer's growing needs."
+      content: "Scale to meet your customer's growing needs."
     - name: "Agile Business"
       icon: "fa-rocket" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
-      content: "Modern businesses must adapt quickly to compete and survive."
+      content: "Adapt quickly to compete and survive."
     - name: "Satisfied Customers"
       icon: "fa-users" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
-      content: "Customer's new and growing expectations require modern applications."
+      content: "Meet customer's new and growing expectations."
 stakes:
   enable: true
-  subtitle: "If you don’t change, you die…"
+  subtitle: "If your business doesn't adapt, it fails…"
   title: "Life is too short to be irrelevant"
   content: >
     Competitive disruptors are taking business away from you.
     You are afraid of failing, of becoming irrelevant in your industry.
     You risk becoming irrelevant in your field.
+      
+    It doesn't have to be that way…
   bg_image: "images/backgrounds/about-us-bg.png"
   image: "images/stakes/about-us.png"
   button:
@@ -44,7 +46,7 @@ stakes:
 value_proposition:
   enable: true
   subtitle: "Stop the path to irrelevancy"
-  title: "Take Control of Your Disruption"
+  title: "Become the disruptor"
   content: >
     Modern applications, modern processes, and modern tools are 
     required to avoid irrelevancy and disrupt your industry.
@@ -53,16 +55,25 @@ value_proposition:
   feature_item:
     - name: "Scalable Applications"
       icon: "fa-line-chart" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
-      content: >
-        Use the cloud to enable high scalability in your enterprise applications.
-    - name: "Agile Business Practice"
+      content: "Scale to meet your customer's growing needs."
+    - name: "Agile Business"
       icon: "fa-rocket" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
-      content: >
-        Faster iterations allows you to quickly respond to customer needs.
-    - name: "High Availability"
-      icon: "fa-heartbeat" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
-      content: >
-        Tools to manage risk and minimize the impact of problems to keep your business operating.
+      content: "Adapt quickly to compete and survive."
+    - name: "Satisfied Customers"
+      icon: "fa-users" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+      content: "Meet customer's new and growing expectations."
+    # - name: "Scalable Applications"
+    #   icon: "fa-line-chart" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+    #   content: >
+    #     Use the cloud to enable high scalability in your enterprise applications.
+    # - name: "Agile Business Practice"
+    #   icon: "fa-rocket" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+    #   content: >
+    #     Faster iterations allows you to quickly respond to customer needs.
+    # - name: "High Availability"
+    #   icon: "fa-heartbeat" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
+    #   content: >
+    #     Tools to manage risk and minimize the impact of problems to keep your business operating.
   button:
     enable: true;
     label: "Schedule a Call"
@@ -72,7 +83,7 @@ value_proposition:
 guide:
   enable: true
   subtitle: "I understand how hard transformation is to remain competitive."
-  title: "I've Been There"
+  title: "I've Been There...and Survived"
   bg_image: "images/backgrounds/about-us-bg.png"
   image: "images/lee-prezo-shaped-592x575.png"
   content: ""
@@ -80,16 +91,18 @@ guide:
     - name: "33 Years Experience"
       icon: "fa-edit" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
       content: >
-        Lee has 33 years of relevant industry experience to backup recommendations.
-    - name: "Worked at Major Distruptors"
+        I have 33 years of relevant industry experience to backup recommendations.
+    - name: "Lead Major Distruptors"
       icon: "fa-building" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
       content: >
-        Lee has worked at major industry disruptors such as Amazon.com, AWS, New Relic.
+        I have lead disruptions at major industry disruptors such as Amazon.com, AWS, New Relic.
     - name: "Thought Leader, Innovator"
       icon: "fa-quote-left" # font-awesome 4.7.0: https://fontawesome.com/v4.7.0/icons/
       content: >
-        Lee has helped companies in most major industries and has worked with 
+        I have helped companies in most major industries and has worked with 
         hundreds of companies around the world, just like yours.
+          
+        I helped them, I can help you too.
   button:
     enable: true;
     label: "Schedule a Call"
@@ -135,7 +148,7 @@ plan:
 explanatory:
   enable: true
   subtitle: ""
-  title: "Life Is Too Short To Be Irrelevant"
+  title: "Be the Disruptor"
   content: >
     Many corporate leaders are facing stagnant revenue and
     unhappy staff.
@@ -153,10 +166,11 @@ cta:
   bg_image: "/images/thecube-stage3.jpg"
   image: "/images/goldilocks_cover193x236.png"
   content: >
-    Are you moving towards a service oriented application architecture?
-    Then you should download our free PDF
-    on building a service oriented organization,
-    *"The Goldilocks Calculation"*, written by Lee Atchison.
+    Not quite ready to work with me on a modernization project? That's fine.
+    Instead, why not take a look at some of my work?
+    The Goldilocks Calculation is a free e-book I wrote that gives strategies 
+    for service sizing when building a services oriented application -- and organization.
+    
   button:
     enable: true
     label: "Download PDF"
@@ -168,7 +182,7 @@ buybook:
   xbg_image_webp: "/images/thecube-stage3.jpg"
   xbg_image: "/images/thecube-stage3.jpg"
   content: >
-    Read the newly updated second edition of Lee's 
+    Read the newly updated second edition of my 
     best selling book, <i>Architecting for Scale</i>, 
     published by O'Reilly Media.
      
