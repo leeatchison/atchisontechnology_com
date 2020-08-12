@@ -1,0 +1,8 @@
+<div style="clear:both;"></div>
+<img src="{{ .Get "image" | absURL }}" align=right height=100px style="padding-left: 10px;" alt="{{ .Get "name" }}">
+<div style="margin-left: 40px;padding-left: 10px;border-left: 2px solid #a0522c;">
+  "{{ .Get "msg" | markdownify }}"
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&mdash; {{ .Get "name" }}, {{ .Get "title" | markdownify }}
+</div>
+<div style="clear:both;"></div>
